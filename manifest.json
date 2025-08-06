@@ -2,7 +2,7 @@
   "name": "UI Build Assistant",
   "version": "0.0.2",
   "manifest_version": 3,
-  "description": "You can create layouts easily!",
+  "description": "THIS IS A UI BUILD ASSISTANT DEMO",
   "permissions": ["activeTab", "storage", "scripting"],
   "host_permissions": ["http://*/*", "https://*/*", "file:///*"],
   "options_page": "index.html",
